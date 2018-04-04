@@ -1,0 +1,19 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+using Hubris;
+
+public class #SCRIPTNAME# : MonoBehaviour
+{
+
+	void Start ()
+	{
+		#NOTRIM#
+	}
+	
+	void Update ()
+	{
+		#NOTRIM#
+	}
+}
