@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Hubris
+namespace Synecdoche
 {
     /// <summary>
     /// Spherical coordinates (r, θ, φ) as often used in mathematics: radial distance r, azimuthal angle θ, and polar angle φ.

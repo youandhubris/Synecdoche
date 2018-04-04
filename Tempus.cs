@@ -1,11 +1,11 @@
 ﻿using System;
 
-namespace Hubris
+namespace Synecdoche
 {
     /// <summary>
     /// A collection of time related helpers.
     /// </summary>
-	public struct Khronos
+	public struct Tempus
     {
         /// <summary>
         /// DateTime for Thursday, 1 January 1970.

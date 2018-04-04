@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Hubris
+namespace Synecdoche
 {
     /// <summary>
     /// A collection of math related helpers.
     /// </summary>
-	public struct Arithmos
+	public struct Numero
     {
         #region Constants
 

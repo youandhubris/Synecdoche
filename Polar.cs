@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Hubris
+namespace Synecdoche
 {
     /// <summary>
     /// Polar coordinates (r, θ) as often used in mathematics: radial distance r, azimuthal angle θ.
@@ -201,7 +201,7 @@ namespace Hubris
             else
             {
                 this.azimuth = (plane == BasePlane.XY) ? Mathf.Atan2(cartesian.y, cartesian.x) : - Mathf.Atan2(cartesian.z, cartesian.x);
-                if (this.azimuth < 0f) this.azimuth = Arithmos.TWO_PI + this.azimuth;
+                if (this.azimuth < 0f) this.azimuth = Numero.TWO_PI + this.azimuth;
             }
         }
 

@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 
-namespace Hubris
+namespace Synecdoche
 {
-	public static class Stochastic
+	public static class Fortuna
 	{
 		/// <summary>
 		/// Returns a random number between [-1.0, 1.0].

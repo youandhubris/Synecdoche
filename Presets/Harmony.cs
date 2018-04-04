@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 using UnityEngine;
 
-namespace Hubris.Presets
+namespace Synecdoche.Presets
 {
     [Serializable] 
     public class Harmony : ScriptableObject

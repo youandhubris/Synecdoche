@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Hubris
+namespace Synecdoche
 {
     /// <summary>
     /// </summary>

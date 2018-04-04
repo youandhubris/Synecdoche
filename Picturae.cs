@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 
-namespace Hubris
+namespace Synecdoche
 {
-	public static class Eikona
+	public static class Picturae
 	{
 		/// <summary>
 		/// Returns the average color on a area of the texture. If Kernel Size == 1, Area == 9 pixels.
