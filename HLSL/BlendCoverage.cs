@@ -2,7 +2,7 @@
 {
     /// <summary>
     /// </summary>
-    public enum Coverage
+    public enum BlendCoverage
     {
         None,
         Both,

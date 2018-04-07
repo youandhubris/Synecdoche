@@ -2,7 +2,7 @@
 {
     /// <summary>
     /// </summary>
-    public enum PorterDuffComposite
+    public enum BlendPorterDuffComposite
     {
         Clear,
         Copy,
