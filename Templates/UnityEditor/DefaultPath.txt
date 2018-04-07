@@ -1,3 +1,0 @@
-﻿%EDITOR_PATH%\Data\Resources\ScriptTemplates
-
-More info: https://support.unity3d.com/hc/en-us/articles/210223733-How-to-customize-Unity-script-templates
